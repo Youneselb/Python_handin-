@@ -12,4 +12,4 @@ This is how you get study points for python elective. 10 out of 13 handins must 
 3. Push your changes to your own github public repo
 5. Publish your notebook repo [here on mybinder](https://mybinder.org/). (ensure the requirements.txt file is updated with necessary libraries)
 6. Enter both url to github hand-in repo and to mybinder here https://forms.gle/1xdURwvJZLdvDegb8
-
+test test
